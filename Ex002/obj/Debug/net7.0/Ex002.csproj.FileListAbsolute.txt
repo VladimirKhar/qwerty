@@ -1,0 +1,14 @@
+D:\Documents\Projects\repo\examples\Ex002\bin\Debug\net7.0\Ex002.exe
+D:\Documents\Projects\repo\examples\Ex002\bin\Debug\net7.0\Ex002.deps.json
+D:\Documents\Projects\repo\examples\Ex002\bin\Debug\net7.0\Ex002.runtimeconfig.json
+D:\Documents\Projects\repo\examples\Ex002\bin\Debug\net7.0\Ex002.dll
+D:\Documents\Projects\repo\examples\Ex002\bin\Debug\net7.0\Ex002.pdb
+D:\Documents\Projects\repo\examples\Ex002\obj\Debug\net7.0\Ex002.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Projects\repo\examples\Ex002\obj\Debug\net7.0\Ex002.AssemblyInfoInputs.cache
+D:\Documents\Projects\repo\examples\Ex002\obj\Debug\net7.0\Ex002.AssemblyInfo.cs
+D:\Documents\Projects\repo\examples\Ex002\obj\Debug\net7.0\Ex002.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\repo\examples\Ex002\obj\Debug\net7.0\Ex002.dll
+D:\Documents\Projects\repo\examples\Ex002\obj\Debug\net7.0\refint\Ex002.dll
+D:\Documents\Projects\repo\examples\Ex002\obj\Debug\net7.0\Ex002.pdb
+D:\Documents\Projects\repo\examples\Ex002\obj\Debug\net7.0\Ex002.genruntimeconfig.cache
+D:\Documents\Projects\repo\examples\Ex002\obj\Debug\net7.0\ref\Ex002.dll
